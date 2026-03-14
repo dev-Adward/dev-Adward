@@ -5,6 +5,8 @@
 
     
 💻 Java Web Developer | Cybersecurity Enthusiast
+
+
 📍 Michigan, USA
 
 ## Tech Stack
