@@ -2,6 +2,8 @@
 
 🎓 CS Student at Oakland Community College
     → Transferring to Eastern Michigan University
+
+    
 💻 Java Web Developer | Cybersecurity Enthusiast
 📍 Michigan, USA
 
